@@ -15,7 +15,7 @@ Most products remain within a relatively stable range throughout the year. Howev
 ---
 
 ### 2. Monthly Product Revenue Breakdown
-![Monthly Sales Mix](./monthly_sales_mix.jpg)
+![Monthly Sales Mix](./monthly_sales_mix.ong)
 
 *Illustrates the monthly sales contribution of each product category.*
 
@@ -25,7 +25,7 @@ Milk remains the dominant revenue source for most of the year. In February, juic
 ---
 
 ### 3. 12-Month Net Profit Margins by Product
-![Net Profit Trends](./net_profit_trends.jpg)
+![Net Profit Trends](./net_profit_trends.png)
 
 *Tracks monthly profitability trends across product lines.*
 
