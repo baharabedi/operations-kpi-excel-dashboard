@@ -15,7 +15,7 @@ Most products remain within a relatively stable range throughout the year. Howev
 ---
 
 ### 2. Monthly Product Revenue Breakdown
-![Monthly Sales Mix](./monthly_sales_mix.ong)
+![Monthly Sales Mix](./monthly_sales_mix.png)
 
 *Illustrates the monthly sales contribution of each product category.*
 
